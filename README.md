@@ -1,5 +1,5 @@
-WebJar for [Library]
+WebJar for DeftJS
 
 More info: http://webjars.org
 
-Upstream: [Library URL]
+Upstream: http://deftjs.org/
